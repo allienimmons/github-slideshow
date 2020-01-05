@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+wit beyond measure is mans greatest treasure
 Use the left arrow to go back!
